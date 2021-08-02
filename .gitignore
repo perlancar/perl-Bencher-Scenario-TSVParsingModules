@@ -2,3 +2,4 @@ Bencher-Scenario-TSVParsingModules-*
 .build
 *~
 nytprof*
+.DS_Store
